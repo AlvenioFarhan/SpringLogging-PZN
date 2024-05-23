@@ -1,0 +1,2 @@
+2024-05-21T17:24:24.547+07:00  WARN 14308 --- [SpringLogging-PZN] [main] pzn.springlogging.LoggingTest            : Learn Spring
+2024-05-21T17:24:24.558+07:00 ERROR 14308 --- [SpringLogging-PZN] [main] pzn.springlogging.LoggingTest            : Learn PZN
